@@ -15,7 +15,7 @@ conda activate segfm3d
 pip install torch nnunetv2 monai wandb scikit-image scikit-learn matplotlib opencv-python tqdm
 ```
 
-## Dowloading the data
+## Downloading the data
 It is now possible to download the challenge data using the huggingface-cli package :
 
 ```bash
